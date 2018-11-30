@@ -1,2 +1,1 @@
-# hello-world
-Stam repository
+# I'm a computer engineering student
